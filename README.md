@@ -37,7 +37,7 @@ Lisäämäni personoidut elementit:
 - ja tässä html sivu selaimessa
 - ![alt text](projektiindexsivu.jpg)
 - tässä readme
-- ![alt text](projektireadmenano.jpg)
+- ![alt text](projektireadmenano.jpg).
 Lopuksi vielä git add, commit ja push 
 
 
