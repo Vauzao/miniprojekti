@@ -23,7 +23,7 @@ Lisäämäni personoidut elementit:
 - ![alt text](projekti2.jpg)
 - ![alt text](projekti3.jpg)
 - ![alt text](projekti4.jpg)
-- ![alt text](proekti5.jpg)
+- ![alt text](projekti5.jpg)
 - ![alt text](projekti6.jpg)
 - ![alt text](projekti7.jpg)
 - ![alt text](projekti8.jpg)
