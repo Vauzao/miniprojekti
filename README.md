@@ -1,9 +1,9 @@
-# ❄️ Snow Nginx — SaltStack Miniprojekti  
+# Snow Nginx — SaltStack Miniprojekti  
 ### Tekijät: Antti ja Konsta
 
 ---
 
-## 🧩 Projektin tarkoitus
+## Projektin tarkoitus
 
 Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaattisesti SaltStackin avulla tyhjään Debian 13 Trixie -virtuaalikoneeseen.
 
@@ -16,7 +16,7 @@ Projektissa demonstroidaan:
 
 ---
 
-## 🎯 Miksi?
+## Miksi?
 
 Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
 
