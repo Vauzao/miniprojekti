@@ -1,26 +1,38 @@
-#  Snow Nginx — SaltStack Miniprojekti Antti ja Konsta
-
-## Projektin tarkoitus  
-Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaattisesti SaltStackin avulla tyhjään Debian 13 -virtuaalikoneeseen. 
-
-- Nginxin asennuksen automatisointi
-- Oma HTML sivu
-  
-
+# ❄️ Snow Nginx — SaltStack Miniprojekti  
+### Tekijät: Antti ja Konsta
 
 ---
-## Miksi
 
-Päätettiin tehdä mahdollisiman helppo projekti, joka vastaa tehtävän antoa.
+## 🧩 Projektin tarkoitus
 
-Lisäämäni personoidut elementit:
-- oma HTML-sivu, jossa näkyvät tekijät ja kurssi
-- siistitty HTML-rakenne ja kevyt ulkoasu
-- parannettu README-ohjeistus ja visualisointi
-- selkeä kuvaus idempotenssista ja projektin arkkitehtuurista
+Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaattisesti SaltStackin avulla tyhjään Debian 13 Trixie -virtuaalikoneeseen.
 
-  ## Käyttöönotto
+Projektissa demonstroidaan:
 
+- Nginxin asennuksen automatisointi Saltilla  
+- Oman HTML-sivun deployaus  
+- Idempotentti Infra-as-Code -kokonaisuus  
+- Local-mode Salt (ei master-palvelinta)
+
+---
+
+## 🎯 Miksi?
+
+Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
+
+Lisätyt personoinnit:
+
+- oma HTML-sivu (tekijät + kurssi)  
+- UTF-8-tuki ja yksinkertainen ulkoasu  
+- selkeä tiedostorakenne  
+- parannettu README ja ohjeistus  
+- idempotenssin näkyvä todentaminen  
+
+---
+
+## 🚀 Käyttöönotto (kopioi & aja)
+
+```bash
 # 1. Lataa projekti
 git clone https://github.com/Vauzao/miniprojekti.git
 cd miniprojekti
@@ -29,7 +41,7 @@ cd miniprojekti
 sudo salt-call --local --file-root salt/ state.apply
 
 # 3. Avaa sivu selaimessa
-# (Debianin selaimeen: http://localhost)
+# http://localhost
 
 # 4. Projektin tiedostorakenne:
 # miniprojekti/
@@ -47,58 +59,5 @@ nano salt/nginx/index.html
 sudo salt-call --local --file-root salt/ state.apply
 
 # 7. Idempotenssin testaus:
-#   - Aja Salt kerran:   changed > 0
-#   - Aja Salt uudelleen: changed = 0
-
-
-###  Lataus, jos haluat kokeilla itse
-```bash
-git clone https://github.com/Vauzao/miniprojekti.git
-cd miniprojekti
-
-
-
-
-
-
-##  Projektin vaiheiden kuvankaappaukset
-- Tein projektille kansion
-- ![alt text](projekti1.jpg). 
-- Tein salitlle top kansion, jotta salt tietää mitä ajaa
-- ![alt text](projekti2.jpg).
-- Top tiedosto
-- ![alt text](projekti3.jpg)
-- Tiedosto joko saltin kuuluu ajaa eli nginx, joka asentaa nginx palvelimen, käynnistää sen ja kopio HTML sivun
-- ![alt text](projekti4.jpg)
-- ![alt text](projekti5.jpg)
-- Tässä näkyy idempotentti
-- ![alt text](projekti8.jpg)
-- ![alt text](projektiidempotentti.jpg)
-- ![alt text](projekti6.jpg)
-- Tässä html sivun nanotiedosto
-- ![alt text](projektiindexnano.jpg)
-- ja tässä html sivu selaimessa
-- ![alt text](projektiindexsivu.jpg)
-- tässä readme
-- ![alt text](projektireadmenano.jpg).
-Lopuksi vielä git add, commit ja push 
-
-
-![mahdollinen Demo](screenshot.png)
-
----
-
-## Käyttöönotto
-
-käytä komentoa: sudo salt-call --local --file-root salt/ state.apply
-
-koodin rakenne: ls /root/snow-nginx/miniprojekti
-
-http://localhost
-
-
-###  Lataus, jos haluat kokeilla itse
-```bash
-git clone https://github.com/Vauzao/miniprojekti.git
-cd miniprojekti
-
+#    - Aja Salt kerran:     changed > 0
+#    - Aja Salt uudelleen:  changed = 0
