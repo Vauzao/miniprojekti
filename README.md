@@ -17,9 +17,8 @@ Lisäämäni personoidut elementit:
 
 
 
-##  Lopputuloksen ruutukaappaus  
-
-- Tein pojektille kansion
+##  Projektin vaiheiden kuvankaappaukset
+- Tein projektille kansion
 - ![alt text](projekti1.jpg). 
 - Tein salitlle top kansion, jotta salt tietää mitä ajaa
 - ![alt text](projekti2.jpg).
