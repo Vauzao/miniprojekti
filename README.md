@@ -32,9 +32,13 @@ Lisäämäni personoidut elementit:
 - ![alt text](projekti8.jpg)
 - ![alt text](projektiidempotentti.jpg)
 - ![alt text](projekti6.jpg)
+- Tässä html sivun nanotiedosto
 - ![alt text](projektiindexnano.jpg)
+- ja tässä html sivu selaimessa
 - ![alt text](projektiindexsivu.jpg)
+- tässä readme
 - ![alt text](projektireadmenano.jpg)
+- 
 
 
 ![Demo](screenshot.png)
