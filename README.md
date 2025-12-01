@@ -19,6 +19,12 @@ Lisäämäni personoidut elementit:
 - parannettu README-ohjeistus ja visualisointi
 - selkeä kuvaus idempotenssista ja projektin arkkitehtuurista
 
+###  Lataus, jos haluat kokeilla itse
+```bash
+git clone https://github.com/Vauzao/miniprojekti.git
+cd miniprojekti
+
+
 
 
 ##  Projektin vaiheiden kuvankaappaukset
