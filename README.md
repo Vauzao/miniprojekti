@@ -29,7 +29,6 @@ Lisäämäni personoidut elementit:
 - ![alt text](projekti4.jpg)
 - ![alt text](projekti5.jpg)
 - ![alt text](projekti6.jpg)
-- ![alt text](projekti7.jpg)
 - ![alt text](projekti8.jpg)
 - ![alt text](projektiindexnano.jpg)
 - ![alt text](projektiindexsivu.jpg)
