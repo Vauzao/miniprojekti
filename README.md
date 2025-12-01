@@ -47,7 +47,7 @@ Lopuksi vielä git add, commit ja push
 
 ## Käyttöönotto
 
-###  Lataa projekti
+###  Lataus ohjeet jos haluat kokeilla itse
 ```bash
 git clone https://github.com/Vauzao/miniprojekti.git
 cd miniprojekti
