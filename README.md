@@ -19,10 +19,10 @@ Lisäämäni personoidut elementit:
 
 ##  Lopputuloksen ruutukaappaus  
 
--Tein pojektille kansion
-- ![alt text](projekti1.jpg)
--Tein salitlle top kansion, jotta salt tietää mitä ajaa
-- ![alt text](projekti2.jpg)
+- Tein pojektille kansion
+- ![alt text](projekti1.jpg). 
+- Tein salitlle top kansion, jotta salt tietää mitä ajaa
+- ![alt text](projekti2.jpg).
 - ![alt text](projekti3.jpg)
 - ![alt text](projekti4.jpg)
 - ![alt text](projekti5.jpg)
