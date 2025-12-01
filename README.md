@@ -38,10 +38,10 @@ Lisäämäni personoidut elementit:
 - ![alt text](projektiindexsivu.jpg)
 - tässä readme
 - ![alt text](projektireadmenano.jpg)
-- 
+Lopuksi vielä git add, commit ja push 
 
 
-![Demo](screenshot.png)
+![mahdollinen Demo](screenshot.png)
 
 ---
 
