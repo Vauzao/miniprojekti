@@ -1,8 +1,8 @@
 #  Snow Nginx — SaltStack Miniprojekti Antti ja Konsta
 
 ## Projektin tarkoitus  
-Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaattisesti SaltStackin avulla tyhjään Debian 12 -virtuaalikoneeseen.  
-Tavoitteena on demonstroida idempotenttia, modernia ja toistettavaa palvelinhallintaa (“infra as code”).
+Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaattisesti SaltStackin avulla tyhjään Debian 13 -virtuaalikoneeseen.  
+
 
 ---
 ## Miksi
@@ -47,7 +47,7 @@ Lopuksi vielä git add, commit ja push
 
 ## Käyttöönotto
 
-###  Lataus ohjeet jos haluat kokeilla itse
+###  Lataus, jos haluat kokeilla itse
 ```bash
 git clone https://github.com/Vauzao/miniprojekti.git
 cd miniprojekti
