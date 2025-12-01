@@ -28,8 +28,8 @@ Lisäämäni personoidut elementit:
 - Tiedosto joko saltin kuuluu ajaa eli nginx, joka asentaa nginx palvelimen, käynnistää sen ja kopio HTML sivun
 - ![alt text](projekti4.jpg)
 - ![alt text](projekti5.jpg)
-- ![alt text](projekti6.jpg)
 - ![alt text](projekti8.jpg)
+- ![alt text](projekti6.jpg)
 - ![alt text](projektiindexnano.jpg)
 - ![alt text](projektiindexsivu.jpg)
 - ![alt text](projektireadmenano.jpg)
