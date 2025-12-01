@@ -19,6 +19,7 @@ Lisäämäni personoidut elementit:
 
 ##  Lopputuloksen ruutukaappaus  
 *(Lisää oma kuvasi tähän GitHubissa, esim. screenshot.png)*
+Tein pojektille kansion
 - ![alt text](projekti1.jpg)
 - ![alt text](projekti2.jpg)
 - ![alt text](projekti3.jpg)
