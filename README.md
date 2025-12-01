@@ -30,7 +30,7 @@ Lisäämäni personoidut elementit:
 - ![alt text](projekti5.jpg)
 - Tässä näkyy idempotentti
 - ![alt text](projekti8.jpg)
-- ![alt text](projektidempotentti.jpg)
+- ![alt text](projektiidempotentti.jpg)
 - ![alt text](projekti6.jpg)
 - ![alt text](projektiindexnano.jpg)
 - ![alt text](projektiindexsivu.jpg)
