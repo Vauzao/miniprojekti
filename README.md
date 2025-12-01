@@ -23,6 +23,7 @@ Lisäämäni personoidut elementit:
 - ![alt text](projekti1.jpg). 
 - Tein salitlle top kansion, jotta salt tietää mitä ajaa
 - ![alt text](projekti2.jpg).
+- Top tiedosto
 - ![alt text](projekti3.jpg)
 - ![alt text](projekti4.jpg)
 - ![alt text](projekti5.jpg)
