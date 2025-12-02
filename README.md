@@ -16,17 +16,14 @@ Projektissa demonstroidaan:
 
 ---
 
-## Miksi?
+## Projektista
 
 - Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
 - Tämä lataa NGINX palvelimen ja oman nettisivun yhdellä komennolla
-
-Lisätyt personoinnit:
-
 - oma HTML-sivu 
 - UTF-8-tuki ja yksinkertainen ulkoasu  
 - selkeä tiedostorakenne  
-- parannettu README ja ohjeistus  
+- README ja ohjeistus  
 - idempotenssin näkyvä todentaminen
 
 ## Lisenssi: GPL-3.0
