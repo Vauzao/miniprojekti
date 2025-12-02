@@ -24,7 +24,7 @@ Projektissa demonstroidaan:
 - UTF-8-tuki ja yksinkertainen ulkoasu  
 - selkeä tiedostorakenne  
 - README ja ohjeistus  
-- idempotenssin näkyvä todentaminen
+
 
 ## Lisenssi: GPL-3.0
 
