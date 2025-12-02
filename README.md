@@ -10,8 +10,8 @@ Tämä projekti asentaa Nginx-palvelimen ja julkaisee oman HTML-sivun automaatti
 Projektissa demonstroidaan:
 
 - Nginxin asennuksen automatisointi Saltilla  
-- Oman HTML-sivun deployaus  
-- Idempotentti Infra-as-Code -kokonaisuus  
+- Oma HTML-sivu 
+- Idempotentti 
 - Local-mode Salt (ei master-palvelinta)
 
 ---
