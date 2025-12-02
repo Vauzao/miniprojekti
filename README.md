@@ -1,4 +1,4 @@
-# Snow Nginx — SaltStack Miniprojekti  
+# Nginx — SaltStack Miniprojekti  
 ### Tekijät: Antti ja Konsta
 
 ---
