@@ -18,7 +18,8 @@ Projektissa demonstroidaan:
 
 ## Miksi?
 
-Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
+- Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
+- Tämä lataa NGINX palvelimen ja oman nettisivun yhdellä komennolla
 
 Lisätyt personoinnit:
 
