@@ -22,7 +22,7 @@ Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää 
 
 Lisätyt personoinnit:
 
-- oma HTML-sivu (tekijät + kurssi)  
+- oma HTML-sivu 
 - UTF-8-tuki ja yksinkertainen ulkoasu  
 - selkeä tiedostorakenne  
 - parannettu README ja ohjeistus  
