@@ -30,7 +30,7 @@ Lisätyt personoinnit:
 
 ---
 
-## 🚀 Käyttöönotto (kopioi & aja)
+## Käyttöönotto (kopioi & aja)
 
 ```bash
 # 1. Lataa projekti
