@@ -20,7 +20,7 @@ Projektissa demonstroidaan:
 
 - Halusimme tehdä selkeän, helposti toistettavan miniprojektin, joka täyttää kurssin vaatimukset.  
 - Tämä lataa NGINX palvelimen ja oman nettisivun yhdellä komennolla
-- oma HTML-sivu 
+- Oma HTML-sivu 
 - UTF-8-tuki ja yksinkertainen ulkoasu  
 - selkeä tiedostorakenne  
 - README ja ohjeistus  
