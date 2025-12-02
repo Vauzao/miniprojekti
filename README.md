@@ -26,7 +26,13 @@ Lisätyt personoinnit:
 - UTF-8-tuki ja yksinkertainen ulkoasu  
 - selkeä tiedostorakenne  
 - parannettu README ja ohjeistus  
-- idempotenssin näkyvä todentaminen  
+- idempotenssin näkyvä todentaminen
+
+## Lisenssi: GPL-3.0
+
+## Lopputulos
+
+![Screenshot of deployed page](projektifinal.jpg)
 
 ---
 
