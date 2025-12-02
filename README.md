@@ -35,7 +35,7 @@ Projektissa demonstroidaan:
 
 ---
 
-## Käyttöönotto (kopioi & aja)
+## Käyttöönotto 
 
 ```bash
 # 1. Lataa projekti
