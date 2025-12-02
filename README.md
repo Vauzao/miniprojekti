@@ -32,7 +32,8 @@ Lisätyt personoinnit:
 
 ## Lopputulos
 
-![Screenshot of deployed page](projektifinal.jpg)
+![Screenshot of deployed page](images/projektifinal.jpg)
+
 
 ---
 
